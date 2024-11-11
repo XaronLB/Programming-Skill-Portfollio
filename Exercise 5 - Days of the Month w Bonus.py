@@ -10,23 +10,23 @@ if mth.lower()==("february"):
         print("There are", dim[mth.capitalize()], "days in the month of",  mth.capitalize())
 elif mth.lower()==("january"):#this command line and below this is a series of command to print the users month and how many days it has
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("march"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("april"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("may"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("june"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("july"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("august"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("september"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("october"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("november"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
-elif mth.lower()==("january"):
+elif mth.lower()==("december"):
     print("There are", dim[mth.capitalize()], "days in the month of", mth.capitalize())
